@@ -1,3 +1,3 @@
 # Belajar Kolaborasi
 
-Dicoding Academy
+Dicoding Academy dengan DBS Foundation.
